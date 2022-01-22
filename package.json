@@ -1,0 +1,14 @@
+{
+  "name": "my-basic-website",
+  "version": "1.0.0",
+  "description": "This is my express based webpage with bootstrap",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server"
+  },
+  "keywords": [
+    "my-basic-page"
+  ],
+  "author": "V A Nujoom",
+  "license": "ISC"
+}
