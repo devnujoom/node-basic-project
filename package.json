@@ -1,14 +1,11 @@
 {
-  "name": "my-basic-website",
+  "name": "simpleserver",
   "version": "1.0.0",
-  "description": "This is my express based webpage with bootstrap",
+  "description": "Very simple server",
   "main": "server.js",
   "scripts": {
-    "test": "node server"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "my-basic-page"
-  ],
-  "author": "V A Nujoom",
+  "author": "Brad Traversy",
   "license": "ISC"
 }
